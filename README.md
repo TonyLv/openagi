@@ -10,7 +10,7 @@
 <i><a href="https://discord.gg/4aWV7He2QU">👉 Join our Discord community!</a></i>
 </div>
 
-## Installation
+## Installation--
 
 1. Setup a virtual environment.
 
